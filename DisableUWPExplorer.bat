@@ -1,0 +1,1 @@
+powershell -command "Start-Process cmd -ArgumentList '/c cd /d %CD% && disable-uwpexplorer-elevated.bat' -Verb runas"
