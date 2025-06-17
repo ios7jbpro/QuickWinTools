@@ -1,0 +1,1 @@
+Vivetool.exe /disable /id:42651849,48433719
