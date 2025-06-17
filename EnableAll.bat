@@ -1,1 +1,0 @@
-powershell -command "Start-Process cmd -ArgumentList '/c cd /d %CD% && enable-all-elevated.bat' -Verb runas"

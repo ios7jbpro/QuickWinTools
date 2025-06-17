@@ -1,1 +1,0 @@
-powershell -command "Start-Process cmd -ArgumentList '/c cd /d %CD% && enable-copilot-elevated.bat' -Verb runas"
